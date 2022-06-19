@@ -33,7 +33,8 @@ $ printenv | grep "AWS" > .env
 Then, add it as environment variables to your Docker container with `--env-file`.
 
 ```
-$ docker run --rm -it -p 9000:9000 -v $(pwd):/src --env-file ./.env KashDC/Terraform_Visualisation
+$ docker run --rm -it -p 9000:9000 -v $(pwd):/src --env-file ./.env KashDC/adcp_visualisation
+
 2021/07/02 06:46:23 Starting Rover...
 2021/07/02 06:46:23 Initializing Terraform...
 2021/07/02 06:46:24 Generating plan...
