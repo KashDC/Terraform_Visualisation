@@ -1,8 +1,8 @@
 ## ADCP - Terraform Visualizer
 
-Rover is a [Terraform](http://terraform.io/) visualizer. 
+ADCP - Terraform Visualizer is a [Terraform](http://terraform.io/) visualizer. 
 
-In order to do this, Rover:
+In order to do this, ADCP - Terraform Visualizer:
 
 1. generates a [`plan`](https://www.terraform.io/docs/cli/commands/plan.html#out-filename) file and parses the configuration in the root directory or uses a provided plan.
 1. parses the `plan` and configuration files to generate three items: the resource overview (`rso`), the resource map (`map`), and the resource graph (`graph`).
@@ -14,7 +14,7 @@ Feedback (via issues) and pull requests are appreciated!
 
 ## Quickstart
 
-The fastest way to get up and running with Rover is through Docker.
+The fastest way to get up and running with ADCP - Terraform Visualizer is through Docker.
 
 Follow the Steps: 
 
