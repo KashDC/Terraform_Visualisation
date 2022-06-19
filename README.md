@@ -1,4 +1,4 @@
-## ADCP - Terraform Visualizer
+## ADCP - Visualizer
 
 ADCP - Terraform Visualizer is a [Terraform](http://terraform.io/) visualizer. 
 
